@@ -1,7 +1,10 @@
+import DashBoard from "../pages/DashBoard"
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+        <DashBoard />
+    </div>
   )
 }
 
